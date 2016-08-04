@@ -1,0 +1,34 @@
+_repo: The-Little-Duke--Richard-the-Fearless_3048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: Though originally intended for a younger audience, this masterpiece of
+  historical children's literature is a delight for readers of all ages. The Little
+  Duke tells the story of Richard the Fearless, the young Duke of Normandy who ascended
+  to power at a very young age and was then imprisoned. Escaping with the help of
+  a few key confidants, Richard fought to regain control of his kingdom. The Little
+  Duke is gripping, engaging historical fiction that will keep you interested.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richard I, Duke of Normandy, approximately 932-996 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Little Duke: Richard the Fearless'
+url: http://www.gutenberg.org/ebooks/3048
